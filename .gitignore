@@ -1,0 +1,22 @@
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Налаштування IDE
+.idea/
+.vscode/
+*.swp
+.ipynb_checkpoints/
+
+# Віртуальні середовища та кеш
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Файли з даними (заборонено пушити за вимогами)
+*.csv
+*.txt
+*.json
+*.log
+*.zip
